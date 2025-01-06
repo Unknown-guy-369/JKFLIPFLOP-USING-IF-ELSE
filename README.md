@@ -1,6 +1,6 @@
 ## Reg.no: 24900880
 ## Name: Abishek Priyan M
-## Experiment 5: JKFLIPFLOP USING IF ELSE
+## Experiment 5: IMPLEMENTATION OF JK FLIP FLOP USING IF ELSE
 
 **AIM:** 
 
