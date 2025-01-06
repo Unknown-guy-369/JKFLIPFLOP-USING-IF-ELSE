@@ -1,6 +1,6 @@
 ## Reg.no: 24900880
 ## Name: Abishek Priyan M
-# JKFLIPFLOP-USING-IF-ELSE
+## Experiment 5: JKFLIPFLOP USING IF ELSE
 
 **AIM:** 
 
