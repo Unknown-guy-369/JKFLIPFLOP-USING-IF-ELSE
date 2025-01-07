@@ -58,4 +58,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **RESULTS**
 
-JK flip-flop was implemented using Verilog, and its functionality was validated using functional tables.
+JK flip flop was implemented using Verilog, and its functionality was validated using functional tables.
